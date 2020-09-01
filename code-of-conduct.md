@@ -1,19 +1,13 @@
 
-# Anti-Racism @ Work Code of Conduct
+# Tailwind Test Drivers Code of Conduct
 
 ## Our Pledge
 
-For frequently asked questions, please refer to our [FAQ here.](./faq.md)
+Tailwind is dedicated to providing a harassment-free community and research environment for everyone: people of all genders, gender identities and expressions, sexual orientations, disabilities, mental illness, neurotype, physical appearance, body size, age, race, ethnicity, nationality, language, immigration status, or religion. We do not tolerate harassment in any form.
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
-and orientation.
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+Tailwind is committed to a zero-tolerance policy toward discrimination and all forms of harassment. This means that no form of discriminatory or harassing conduct by or towards any member of the Tailwind Test Drivers community. Everyone participating in the Tailwind Test Drivers community—whether in-person or online, including, but not limited to all Slack channels—is expected to show respect and courtesy to all and is required to agree to the following Code of Conduct.
+
 
 ## Our Standards
 
@@ -30,48 +24,45 @@ community include:
 
 Examples of unacceptable behavior include:
 
-* The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+* DISCRIMINATORY BEHAVIOR
+Discrimination refers to treating people differently, negatively, or adversely because of one or more of the following prohibited grounds of discrimination: race, color, ancestry, place of origin, political belief, religion, age, gender, sexual orientation, marital status, family status, physical or mental disability.
+
+* PERSONAL HARASSMENT
+Personal harassment includes objectionable conduct, comment, or display made on either a one-time or continuous basis that demeans, belittles, or causes personal humiliation or embarrassment on the part of the recipient. It may or may not be linked to discriminatory behavior.
+
+* SEXUAL HARASSMENT
+Sexual harassment refers to any conduct, comment, gesture, or contact of a sexual nature, whether on a one-time basis or a series of incidents, that might reasonably be expected to cause offense or humiliation or that might reasonably be perceived as placing a condition of a sexual nature on employment, an opportunity for training or promotion, receipt of services, or a contract. Examples of behavior that can constitute sexual harassment include, but are not limited to: unwanted touching, patting or leering, inquiries or comments about a person’s sex life, telephone calls with sexual overtones, gender-based insults or jokes causing embarrassment or humiliation, repeated unwanted social or sexual invitations, inappropriate or unwelcome focus/comments on a person’s physical attributes or appearance.
+
+* BULLYING
+Bullying consists of behavior to attack and diminish another by subjecting the recipient to unjustified criticism and trivial fault-finding, humiliating the recipient (especially in front of others), and/or ignoring, overruling, isolating and excluding the recipient.
+
 
 ## Enforcement Responsibilities
 
-Community leaders are responsible for clarifying and enforcing our standards of
+Tailwind Admin members are responsible for clarifying and enforcing our standards of
 acceptable behavior and will take appropriate and fair corrective action in
 response to any behavior that they deem inappropriate, threatening, offensive,
 or harmful.
 
-Community leaders have the right and responsibility to remove, edit, or reject
+Tailwind Admin members have the right and responsibility to remove, edit, or reject
 comments, commits, code, wiki edits, issues, and other contributions that are
 not aligned to this Code of Conduct, and will communicate reasons for moderation
 decisions when appropriate.
 
-## Scope
-
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
 
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-[INSERT CONTACT METHOD].
+reported to the Tailwind Admin members responsible for enforcement through a direct 
+message on Slack or directly to sam@tailwindapp.com.
 All complaints will be reviewed and investigated promptly and fairly.
 
-All community leaders are obligated to respect the privacy and security of the
+All Tailwind Admin members are obligated to respect the privacy and security of the
 reporter of any incident.
 
 ## Enforcement Guidelines
 
-Community leaders will follow these Community Impact Guidelines in determining
+Tailwind Admin members will follow these Community Impact Guidelines in determining
 the consequences for any action they deem in violation of this Code of Conduct:
 
 ### 1. Correction
@@ -79,7 +70,7 @@ the consequences for any action they deem in violation of this Code of Conduct:
 **Community Impact**: Use of inappropriate language or other behavior deemed
 unprofessional or unwelcome in the community.
 
-**Consequence**: A private, written warning from community leaders, providing
+**Consequence**: A private, written warning from Tailwind Admin members, providing
 clarity around the nature of the violation and an explanation of why the
 behavior was inappropriate. A public apology may be requested.
 
@@ -114,6 +105,8 @@ individual, or aggression toward or disparagement of classes of individuals.
 
 **Consequence**: A permanent ban from any sort of public interaction within
 the community.
+
+
 
 ## Attribution
 
