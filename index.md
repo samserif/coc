@@ -1,37 +1,124 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/samserif/coc/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Tailwind Test Drivers Code of Conduct
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Our Pledge
 
-### Markdown
+Tailwind is dedicated to providing a harassment-free community and research environment for everyone: people of all genders, gender identities and expressions, sexual orientations, disabilities, mental illness, neurotype, physical appearance, body size, age, race, ethnicity, nationality, language, immigration status, or religion. We do not tolerate harassment in any form.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Tailwind is committed to a zero-tolerance policy toward discrimination and all forms of harassment. This means that no form of discriminatory or harassing conduct by or towards any member of the Tailwind Test Drivers community. Everyone participating in the Tailwind Test Drivers community—whether in-person or online, including, but not limited to all Slack channels—is expected to show respect and courtesy to all and is required to agree to the following Code of Conduct.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Our Standards
 
-1. Numbered
-2. List
+Examples of behavior that contributes to a positive environment for our
+community include:
 
-**Bold** and _Italic_ and `Code` text
+* Demonstrating empathy and kindness toward other people
+* Being respectful of differing opinions, viewpoints, and experiences
+* Giving and gracefully accepting constructive feedback
+* Accepting responsibility and apologizing to those affected by our mistakes,
+  and learning from the experience
+* Focusing on what is best not just for us as individuals, but for the
+  overall community
 
-[Link](url) and ![Image](src)
-```
+Examples of unacceptable behavior include:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* DISCRIMINATORY BEHAVIOR
+Discrimination refers to treating people differently, negatively, or adversely because of one or more of the following prohibited grounds of discrimination: race, color, ancestry, place of origin, political belief, religion, age, gender, sexual orientation, marital status, family status, physical or mental disability.
 
-### Jekyll Themes
+* PERSONAL HARASSMENT
+Personal harassment includes objectionable conduct, comment, or display made on either a one-time or continuous basis that demeans, belittles, or causes personal humiliation or embarrassment on the part of the recipient. It may or may not be linked to discriminatory behavior.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samserif/coc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* SEXUAL HARASSMENT
+Sexual harassment refers to any conduct, comment, gesture, or contact of a sexual nature, whether on a one-time basis or a series of incidents, that might reasonably be expected to cause offense or humiliation or that might reasonably be perceived as placing a condition of a sexual nature on employment, an opportunity for training or promotion, receipt of services, or a contract. Examples of behavior that can constitute sexual harassment include, but are not limited to: unwanted touching, patting or leering, inquiries or comments about a person’s sex life, telephone calls with sexual overtones, gender-based insults or jokes causing embarrassment or humiliation, repeated unwanted social or sexual invitations, inappropriate or unwelcome focus/comments on a person’s physical attributes or appearance.
 
-### Support or Contact
+* BULLYING
+Bullying consists of behavior to attack and diminish another by subjecting the recipient to unjustified criticism and trivial fault-finding, humiliating the recipient (especially in front of others), and/or ignoring, overruling, isolating and excluding the recipient.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## Enforcement Responsibilities
+
+Tailwind Admin members are responsible for clarifying and enforcing our standards of
+acceptable behavior and will take appropriate and fair corrective action in
+response to any behavior that they deem inappropriate, threatening, offensive,
+or harmful.
+
+Tailwind Admin members have the right and responsibility to remove, edit, or reject
+comments, commits, code, wiki edits, issues, and other contributions that are
+not aligned to this Code of Conduct, and will communicate reasons for moderation
+decisions when appropriate.
+
+
+## Enforcement
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported to the Tailwind Admin members responsible for enforcement through a direct 
+message on Slack or directly to sam@tailwindapp.com.
+All complaints will be reviewed and investigated promptly and fairly.
+
+All Tailwind Admin members are obligated to respect the privacy and security of the
+reporter of any incident.
+
+## Enforcement Guidelines
+
+Tailwind Admin members will follow these Community Impact Guidelines in determining
+the consequences for any action they deem in violation of this Code of Conduct:
+
+### 1. Correction
+
+**Community Impact**: Use of inappropriate language or other behavior deemed
+unprofessional or unwelcome in the community.
+
+**Consequence**: A private, written warning from Tailwind Admin members, providing
+clarity around the nature of the violation and an explanation of why the
+behavior was inappropriate. A public apology may be requested.
+
+### 2. Warning
+
+**Community Impact**: A violation through a single incident or series
+of actions.
+
+**Consequence**: A warning with consequences for continued behavior. No
+interaction with the people involved, including unsolicited interaction with
+those enforcing the Code of Conduct, for a specified period of time. This
+includes avoiding interactions in community spaces as well as external channels
+like social media. Violating these terms may lead to a temporary or
+permanent ban.
+
+### 3. Temporary Ban
+
+**Community Impact**: A serious violation of community standards, including
+sustained inappropriate behavior.
+
+**Consequence**: A temporary ban from any sort of interaction or public
+communication with the community for a specified period of time. No public or
+private interaction with the people involved, including unsolicited interaction
+with those enforcing the Code of Conduct, is allowed during this period.
+Violating these terms may lead to a permanent ban.
+
+### 4. Permanent Ban
+
+**Community Impact**: Demonstrating a pattern of violation of community
+standards, including sustained inappropriate behavior,  harassment of an
+individual, or aggression toward or disparagement of classes of individuals.
+
+**Consequence**: A permanent ban from any sort of public interaction within
+the community.
+
+
+
+## Attribution
+
+This Code of Conduct is adapted from the [Contributor Covenant][homepage],
+version 2.0, available at
+https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+
+Community Impact Guidelines were inspired by [Mozilla's code of conduct
+enforcement ladder](https://github.com/mozilla/diversity).
+
+[homepage]: https://www.contributor-covenant.org
+
+For answers to common questions about this code of conduct, see the FAQ at
+https://www.contributor-covenant.org/faq. Translations are available at
+https://www.contributor-covenant.org/translations.
