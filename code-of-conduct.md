@@ -1,6 +1,3 @@
-
-# Tailwind Test Drivers Code of Conduct
-
 ## Our Pledge
 
 Tailwind is dedicated to providing a harassment-free community and research environment for everyone: people of all genders, gender identities and expressions, sexual orientations, disabilities, mental illness, neurotype, physical appearance, body size, age, race, ethnicity, nationality, language, immigration status, or religion. We do not tolerate harassment in any form.
